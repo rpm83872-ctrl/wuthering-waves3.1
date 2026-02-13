@@ -1,0 +1,352 @@
+[Android_VeryHigh DeviceProfile]
+DeviceScore=700,000
+CVars=r.Android.DisableOpenGLES31Support=1
+CVars=r.AFME.Enable=1
+CVars=r.AFME.Kuro.Enable=1
+CVars=r.Mobile.DeviceEvaluation=3
+CVars=r.MobileContentScaleFactor=1.166667
+CVars=r.SecondaryScreenPercentage.GameViewport=100
+CVars=r.DefaultFeature.AntiAliasing=2
+CVars=r.imp.SSMbScaleLod0=0.0
+CVars=r.imp.SSMbScaleLod1=0.0
+CVars=sg.ResolutionQuality=100.000000
+CVars=sg.ViewDistanceQuality=4
+CVars=sg.AntiAliasingQuality=4
+CVars=sg.PostProcessQuality=4
+CVars=sg.TextureQuality=4
+CVars=sg.FoliageQuality=4
+CVars=sg.RayTracingQuality=2
+CVars=sg.ShadowQuality=3
+CVars=r.DontLimitOnBattery=1
+CVars=FX.AllowGPUParticles=1
+CVars=r.GPUCrashDebugging=0
+CVars=r.Streaming.PoolSize=4096
+CVars=r.SkinCache.SceneMemoryLimitInMB=512
+CVars=wp.Runtime.LoadingRangeScale=1.5
+
+[Android_TegraK1 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno8xx DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno810 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno820 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno825 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno830 DeviceProfile]
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno840 DeviceProfile]
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno850 DeviceProfile]
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno4xx DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno4xx_Low DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno5xx DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno5xx_Low DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno660 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno6xx DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno6xx_Lowest DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno6xx_Low DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno6xx_Mid DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno6xx_High DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno732 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno730 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno740 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno750 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno7xx DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno7xx_Lowest DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno7xx_Low DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno7xx_Mid DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Adreno7xx_High DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Xclipse9xx DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Xclipse950 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Xclipse940 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Xclipse930 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Xclipse5xx DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_T6xx DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_T7xx DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_T8xx DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G100 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G200 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G5x DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G57_MC2 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G71 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G72 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G76 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G615 MC6 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G77 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G78 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G5x_Low DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G61x DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G62x DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G68 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G710 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G715 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Immortalis_G715 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Immortalis_G720 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Immortalis_G925 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G720 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G925 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G92x DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G57 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G52 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G615_MC6 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G610 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G51 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G1 DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G1x DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G1Ultra DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
+
+[Android_Mali_G1_Ultra DeviceProfile]
+BaseProfileName=Android_VeryHigh
+DeviceScore=700,000
+CVars=r.Mobile.DeviceEvaluation=3
